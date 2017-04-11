@@ -10,6 +10,7 @@
 		<module>api</module>
 		<module>client</module>
 		<module>clientwithservice</module>
+		<module>cachableclient</module>
 		<module>service</module>
 	</modules>
 	<packaging>pom</packaging>
