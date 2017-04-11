@@ -11,6 +11,7 @@
 		<module>client</module>
 		<module>clientwithservice</module>
 		<module>cachableclient</module>
+		<module>clientwithretry</module>
 		<module>service</module>
 	</modules>
 	<packaging>pom</packaging>
