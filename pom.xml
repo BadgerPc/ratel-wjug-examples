@@ -15,6 +15,7 @@
 		<module>clientwithmonitoring</module>
 		<module>service</module>
 		<module>servicewithmonitoring</module>
+		<module>testing</module>
 	</modules>
 	<packaging>pom</packaging>
 
