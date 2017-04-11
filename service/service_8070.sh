@@ -1,0 +1,1 @@
+java -Dserver.port=8070 -DserviceDiscovery.selfAddress=localhost:8070 -jar target/service-*-SNAPSHOT.jar
