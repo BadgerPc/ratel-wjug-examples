@@ -12,7 +12,9 @@
 		<module>clientwithservice</module>
 		<module>cachableclient</module>
 		<module>clientwithretry</module>
+		<module>clientwithmonitoring</module>
 		<module>service</module>
+		<module>servicewithmonitoring</module>
 	</modules>
 	<packaging>pom</packaging>
 
